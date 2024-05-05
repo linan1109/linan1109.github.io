@@ -36,6 +36,7 @@ export default defineUserConfig({
         ProfileSection: path.resolve(__dirname, './docs/.vuepress/components/ProfileSection.vue'),
         ProjectCard: path.resolve(__dirname, './docs/.vuepress/components/ProjectCard.vue'),
         ShowHideDetail: path.resolve(__dirname, './docs/.vuepress/components/ShowHideDetail.vue'),
+        ProjectDetail: path.resolve(__dirname, './docs/.vuepress/components/ProjectDetail.vue'),
       }
     }),
     externalLinkIconPlugin({

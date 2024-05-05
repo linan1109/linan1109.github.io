@@ -13,7 +13,7 @@ contributors: false
 ## University of Zurich - MSc in Computer Science
 **Sep. 2022 - Oct. 2024**
 
-**Master Project**:  Explanation Methods for Recommender Systems - [Detail](/projects/) 
+**Master Project**:  Explanation Methods for Recommender Systems - [Detail](/projects/#explainability-method-for-recommender-systems) 
 
 **Lectures Taken**:
  - Advanced Techniques of Machine Translation - [Project on GitHub](https://github.com/linan1109/atmt_2023)
@@ -31,7 +31,7 @@ contributors: false
 ## ETH Zurich - Special Student
  **Sep. 2022 - Oct. 2024**
 
-**Master Thesis** :  Explainable Machine Learning Algorithm for Drunk Driving Detection - [Detail](/projects/)
+**Master Thesis** :  Explainable Machine Learning Algorithm for Drunk Driving Detection - [Detail](/projects/#interpretable-machine-learning-algorithm-for-drunk-driving-detection)
 
 **Lectures Taken**:
  - Probabilistic Artificial Intelligence - [Link](https://las.inf.ethz.ch/teaching/pai-f23), [Project on GitHub](https://github.com/linan1109/Probabilistic_AI_project)
