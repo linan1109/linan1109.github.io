@@ -5,6 +5,7 @@ home: true
 title: Home
 externalLinkIcon: false
 pageClass: home-page
+lang: en-US
 # some data for the components
 
 name: Nan Li
@@ -53,18 +54,53 @@ at [Bosch Iot Lab][bosch-iot], [ETH Zurich][eth-home].
 [eth-home]: https://ethz.ch/en.html
 
 ## Education
+
+[→ More details][education-detail]
  - Sep. 2022 - Oct. 2024: Master of Science in Computer Science, [University of Zurich][uzh-home], Switzerland
  - Sep. 2016 - Jun. 2021: Bachelor of Engineering in Software Engineering, [Beihang University][buaa-home], China
 
-[More details][education-detail]
 
 [education-detail]: /education/
 
 
 ## Projects
 
+[→ Full list][projects-detail]
+
+<ProjectCard image="/projects/1.png" hideBorder=true>
+
+  **Interpretable Machine Learning Algorithm for Drunk Driving Detection**
 
 
+Crafted interpretable machine learning algorithms for drunk driving detection utilizing a multi-sensor dataset. 
+Emphasized precision and interpretability, employing diverse techniques in multivariate time-series classification tailored for driving data analysis.
+
+  [[Website](https://www.iot-lab.ch/projects-connectedmobility/drive/)] [[SRF video](https://www.iot-lab.ch/news/our-in-vehicle-drunk-driving-detection-featured-on-srf-swiss-tv/)] 
+
+</ProjectCard>
+
+<ProjectCard image="/projects/anymal.png" hideBorder=true>
+
+  **Visual-Assisted Workflow for Locomotion Learning**
+
+
+This project focuses on the investigation into appropriate metrics and visualization techniques to steer the quadrupedal locomotion learning process interactively. This action will be an important step towards a more transparent learning system.
+
+  [[Demo](https://linan1109.github.io/urdf-loaders/js)]
+
+</ProjectCard>
+
+
+<ProjectCard image="/projects/rose.png" hideBorder=true>
+
+  **Explanation Methods for Recommender Systems**
+
+Conducted research and implemented explanation methods for recommender systems’ outputs, along
+with quantitative metrics to evaluate these explainers. 
+
+</ProjectCard>
+
+[projects-detail]: /projects/
 
 
 ## On-Campus Works
