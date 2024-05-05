@@ -17,7 +17,11 @@ export default defineUserConfig({
   theme: defaultTheme({
     // logo: 'https://vuejs.press/images/hero.png',
 
-    navbar: [{text:'HOME', link:'/'}, '/get-started'],
+    navbar: [
+      {text:'HOME', link:'/'},
+      {text:'Education', link:'/education/'},
+      {text:'Projects', link:'/projects/'},
+    ],
     
   }),
 
@@ -34,6 +38,7 @@ export default defineUserConfig({
       }
     }),
     externalLinkIconPlugin({
+      
 
     }),
 

@@ -3,7 +3,7 @@ sidebar: auto
 sidebarDepth: 2
 home: true
 title: Home
-
+externalLinkIcon: false
 pageClass: home-page
 # some data for the components
 
@@ -23,6 +23,9 @@ socials:
   - title: CV
     icon: "/icons/document-outline.svg"
     link: /cv/cv.pdf
+  - title: Zurich, Switzerland
+    icon: "/icons/map-pin.svg"
+    link: https://maps.app.goo.gl/ddX75yrfZHpC1jag6
 
 
 footer: MIT Licensed | Powered by VuePress
@@ -34,14 +37,46 @@ footer: MIT Licensed | Powered by VuePress
 
 
 ## About Me
+I am a Master student in Computer Science (in German, Informatik) at the [University of Zurich（UZH)][uzh-home], with a major in Artificial Intelligence. 
+Before that, I received my Bachelor's degree in Software Engineering from [Beihang University (BUAA)][buaa-home] in Beijing.
+
+I am interested in applying machine learning algorithms to solve real-world problems. 
+Now I am focusing on the field of multivariate time series classification and explainable Aartificial intelligence.
+I am also interested in software engineering, especially in writing clean and maintainable code.
+
+I am currently working on my Master's thesis on the topic of "Interpretable Machine Learning Algorithm for Drunk Driving Detection" 
+at [Bosch Iot Lab][bosch-iot], [ETH Zurich][eth-home].
+
+[uzh-home]: https://www.uzh.ch/en.html
+[buaa-home]: https://ev.buaa.edu.cn/
+[bosch-iot]: https://www.iot-lab.ch/
+[eth-home]: https://ethz.ch/en.html
 
 ## Education
+ - Sep. 2022 - Oct. 2024: Master of Science in Computer Science, [University of Zurich][uzh-home], Switzerland
+ - Sep. 2016 - Jun. 2021: Bachelor of Engineering in Software Engineering, [Beihang University][buaa-home], China
+
+[More details][education-detail]
+
+[education-detail]: /education/
+
 
 ## Projects
 
+
+
+
+
 ## On-Campus Works
 
-## Awards and Honors
+- Fall 2023: Practical Tutor in the lecture ["Foundations of Data Science"][fds] (MSc & PhD) at the University of Zurich
+- Fall 2020: Teaching Assistant in the lecture ["Compiler Theory"][this-site] (BEng) at Beihang University
+- Spring 2020: Head Teaching Assistant in the lecture ["Object-Oriented Programming (Java)"][this-site] (BEng) at Beihang University
+- Fall 20129: Teaching Assistant in the lecture ["Algorithm Analysis and Design"][this-site] (BEng) at Beihang University
+
+[fds]: https://www.ifi.uzh.ch/en/dast/teaching/FDS.html
+[this-site]: /
+
 
 
 <!-- Custom style for this page -->
