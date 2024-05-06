@@ -12,16 +12,27 @@ contributors: false
 
 ## Visual-Assisted Workflow for Locomotion Learning
 
-<ProjectDetail image="/projects/anymal-large.png" hideBorder=true>
-
 **Mar. 2024 - Ongoing**
 
-[Demo Here](https://linan1109.github.io/urdf-loaders/js),  [Code on GitHub](https://github.com/linan1109/urdf-loaders)
+<ProjectDetail image="/projects/anymal-large.png" hideBorder=true>
+
+
+[Demo Here](https://linan1109.github.io/urdf-loaders/js)
+
+[Code on GitHub](https://github.com/linan1109/urdf-loaders)
 
 This project is under the supervision of professor and researchers at [ETH AI center](https://ai.ethz.ch/). 
 
- - **Description**: This project focuses on the investigation into appropriate metrics and visualization techniques to steer the quadrupedal locomotion learning process interactively. This action will be an important step towards a more transparent learning system.
- - **Main Work**: Conduct in-depth research on the Dynamics Explorer system and other relevant visualization techniques. Integrate state-of-the-art quadrupedal locomotion learning algorithms, leveraging platforms such as Isaac Gym and RaiSim for simulation and experimentation.
+ <!-- - **Description**: This project focuses on the investigation into appropriate metrics and visualization techniques to steer the quadrupedal locomotion learning process interactively. This action will be an important step towards a more transparent learning system. -->
+ <!-- - **Main Work**: Conduct in-depth research on the Dynamics Explorer system and other relevant visualization techniques. Integrate state-of-the-art quadrupedal locomotion learning algorithms, leveraging platforms such as Isaac Gym and RaiSim for simulation and experimentation. -->
+
+**Objective**: This project focuses on developing visual tools that facilitate quadrupedal locomotion learning. By leveraging advanced visualization techniques, it aims to enhance the understanding of how quadrupedal robots can be trained more effectively.
+
+<!-- **Contributions**:
+- Algorithm Research & Integration: Researched and implemented state-of-the-art locomotion learning algorithms. This step included reviewing the latest methodologies, identifying best practices, and customizing them for quadrupedal robots.
+- Simulation Platform: Employed RaiSim, a physics engine, to simulate different locomotion learning scenarios and experiment with algorithm effectiveness, creating a controlled environment for testing.
+- Visualization Website: Developed a web-based visualization platform to interpret the outcomes of different learning strategies, helping researchers analyze the learning behavior and adjust strategies accordingly. -->
+
 </ProjectDetail>
 
 ## Interpretable Machine Learning Algorithm for Drunk Driving Detection 
