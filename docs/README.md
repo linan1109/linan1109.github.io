@@ -55,7 +55,7 @@ at [Bosch Iot Lab][bosch-iot], [ETH Zurich][eth-home].
 
 ## Education
 
-[→ More details][education-detail]
+[→ To More Details][education-detail]
  - Sep. 2022 - Oct. 2024: Master of Science in Computer Science, [University of Zurich][uzh-home], Switzerland
  - Sep. 2016 - Jun. 2021: Bachelor of Engineering in Software Engineering, [Beihang University][buaa-home], China
 
@@ -65,7 +65,7 @@ at [Bosch Iot Lab][bosch-iot], [ETH Zurich][eth-home].
 
 ## Projects
 
-[→ Full list][projects-detail]
+[→ To Full List][projects-detail]
 
 <ProjectCard image="/projects/1.png" hideBorder=true>
 

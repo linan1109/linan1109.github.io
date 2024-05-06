@@ -3,7 +3,7 @@ sidebar: auto
 sidebarDepth: 2
 home: false
 title: Eduction
-externalLinkIcon: false
+externalLinkIcon: true
 lang: en-US
 contributors: false
 ---
@@ -13,13 +13,13 @@ contributors: false
 ## University of Zurich - MSc in Computer Science
 **Sep. 2022 - Oct. 2024**
 
-**Master Project**:  Explanation Methods for Recommender Systems - [Detail](/projects/#explainability-method-for-recommender-systems) 
+**Master Project**:  Explanation Methods for Recommender Systems - [Detail](https://linan1109.github.io/projects/#explainability-method-for-recommender-systems) 
 
 **Lectures Taken**:
  - Advanced Techniques of Machine Translation - [Project on GitHub](https://github.com/linan1109/atmt_2023)
- - Essentials in Text and Speech Processing - [Project on GitHub](https://github.com/yvonne-yiqin-zhang/GPT_Generated_Text_Detection), [Report](/projects/essential_project_report.pdf)
+ - Essentials in Text and Speech Processing - [Project on GitHub](https://github.com/yvonne-yiqin-zhang/GPT_Generated_Text_Detection), [Report](https://linan1109.github.io/projects/essential_project_report.pdf)
  - Deep Learning - [Link](https://www.ifi.uzh.ch/en/aiml/teaching/Lecture-Deep-Learning.html)
- - Seminar: Ethical, legal and social aspects of cybersecurity [Poster](/projects/poster.pdf)
+ - Seminar: Ethical, legal and social aspects of cybersecurity [Poster](https://linan1109.github.io/projects/poster.pdf)
  - Systems for Data Science 
  - Advanced Topics in Artificial Intelligence
  - Foundations of Data Science - [Link](https://www.ifi.uzh.ch/en/dast/teaching/FDS.html) 
@@ -31,7 +31,7 @@ contributors: false
 ## ETH Zurich - Special Student
  **Sep. 2022 - Oct. 2024**
 
-**Master Thesis** :  Explainable Machine Learning Algorithm for Drunk Driving Detection - [Detail](/projects/#interpretable-machine-learning-algorithm-for-drunk-driving-detection)
+**Master Thesis** :  Explainable Machine Learning Algorithm for Drunk Driving Detection - [Detail](https://linan1109.github.io/projects/#interpretable-machine-learning-algorithm-for-drunk-driving-detection)
 
 **Lectures Taken**:
  - Probabilistic Artificial Intelligence - [Link](https://las.inf.ethz.ch/teaching/pai-f23), [Project on GitHub](https://github.com/linan1109/Probabilistic_AI_project)
