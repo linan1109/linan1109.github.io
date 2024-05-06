@@ -19,7 +19,6 @@ export default {
 @import './styles/config.styl';
 
 .md-card
-  background-color $frontColor
   margin-top 1em
   min-height 150px
   display flex

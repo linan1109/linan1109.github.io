@@ -18,7 +18,6 @@ export default {
 <style lang="stylus">
 @import './styles/config.styl';
 .card
-    background-color $frontColor
     margin-top 1em
     min-height 250px
     display flex
@@ -31,8 +30,7 @@ export default {
         img 
             align-self center
             min-height 250px
-            
-            border: 1px solid #eee;
+
             border-radius 0.2rem
             object-fit cover
     .card-content
