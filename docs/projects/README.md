@@ -15,7 +15,7 @@ contributors: false
 **Mar. 2024 - Ongoing**
 
 <ProjectDetail image="/projects/anymal-large.png" hideBorder=true>
-
+</ProjectDetail>
 
 [Demo Here](https://linan1109.github.io/urdf-loaders/js)
 
@@ -32,8 +32,6 @@ This project is under the supervision of professor and researchers at [ETH AI ce
 - Algorithm Research & Integration: Researched and implemented state-of-the-art locomotion learning algorithms. This step included reviewing the latest methodologies, identifying best practices, and customizing them for quadrupedal robots.
 - Simulation Platform: Employed RaiSim, a physics engine, to simulate different locomotion learning scenarios and experiment with algorithm effectiveness, creating a controlled environment for testing.
 - Visualization Website: Developed a web-based visualization platform to interpret the outcomes of different learning strategies, helping researchers analyze the learning behavior and adjust strategies accordingly. -->
-
-</ProjectDetail>
 
 ## Interpretable Machine Learning Algorithm for Drunk Driving Detection 
 
@@ -52,11 +50,11 @@ This project is conducted at the [IoT Lab](https://www.iot-lab.ch/projects-conne
 
 <ProjectDetail image="/projects/3dpinball.gif" hideBorder=true>
 
+</ProjectDetail>
+
 [Code Here](https://github.com/linan1109/SpaceCadetPinball-AIplayer)
 
 This project is just for fun. It includes developing an AI player for the classic Windows game '3D Pinball Space Cadet', capable of learning from gameplay to achieve high scores. And it uses a combination of Computer Vision, Reinforcement Learning, and Genetic Algorithm.
-
-</ProjectDetail>
 
 
 ## Explainability Method for Recommender Systems
@@ -64,13 +62,12 @@ This project is just for fun. It includes developing an AI player for the classi
 **Feb. 2023 - Ongoing**
 
 <ProjectDetail image="/projects/rose.png" hideBorder=true>
+</ProjectDetail>
 
 This project was under the supervision of Professor [Abraham Bernstein](https://www.ifi.uzh.ch/en/ddis/people/bernstein.html) at [Dynamic and Distributed Information Systems Group](https://www.ifi.uzh.ch/en/ddis.html) of UZH.
 
 Through extensive research,  experiment, and testing, we implement eight recommenders, six explanation methods, and eight metrics. We summarize their requirements, limitations, and shed light on their strengths and weaknesses. We carry out detailed analysis for each applicable recommender-explanation-metric combination utilizing experiment pipeline and carefully crafted datasets. We complete this report by discussing key observations, comparing and contrasting model performance, and elaborating on our insights into the reasons behind the performance disparity. 
 
-
-</ProjectDetail>
 
 ## GPT-Generated Text Detection
 
@@ -104,10 +101,11 @@ A project review web application leveraging blockchain technology and distribute
 **Jan. 2020 - Jun. 2020**
 <ProjectDetail image="/projects/im.png" hideBorder=true>    
 
+
+</ProjectDetail>
+
 [Code Here](https://github.com/KniLIM)
 
 KniLIM adopts a multi-platform approach, allowing usage on both browsers and desktops. Functionally, the system is divided into chat system, dynamic system, search system, friend system, group chat system, and recommendation system. The main features of the chat system include one-on-one chatting, text transmission, voice transmission, image and file transmission, and real-time audio-video calls. The dynamic system features friend updates. The search system enables searching chat records and friends. The friend system facilitates user registration, basic information input, friend addition, and deletion. The group chat system allows group creation and exit, group chatting, text transmission, voice transmission, and image and file transmission. The recommendation system provides friend and group suggestions.
 
 In the core chat system, KniLIM employs a P2P architecture based on Socket long connections to ensure the timeliness of message exchange, while operations like login, registration, and friend addition utilize a short connection approach based on REST. Moreover, the server-side core functionalities are decoupled into different microservices, enabling mutual communication and invocation between services through RPC, thereby enhancing the system's flexibility and scalability.
-
-</ProjectDetail>
