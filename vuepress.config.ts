@@ -43,6 +43,20 @@ export default defineUserConfig({
       
 
     }),
-
   ],
+
+  head: [
+    ['script', {
+      async: true,
+      src: "https://www.googletagmanager.com/gtag/js?id=G-WXPNLGXQ1Z"
+    }],
+    ['script', {}, `
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-WXPNLGXQ1Z');
+      `],
+  ],
+
 })
