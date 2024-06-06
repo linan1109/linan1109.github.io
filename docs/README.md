@@ -113,18 +113,6 @@ with quantitative metrics to evaluate these explainers.
 [fds]: https://www.ifi.uzh.ch/en/dast/teaching/FDS.html
 [this-site]: /
 
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-WXPNLGXQ1Z"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-WXPNLGXQ1Z');
-</script>
-
-
 <!-- Custom style for this page -->
 
 <style lang="stylus">

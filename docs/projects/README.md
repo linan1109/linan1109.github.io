@@ -14,7 +14,8 @@ contributors: false
 
 **Mar. 2024 - Ongoing**
 
-<ProjectDetail image="/projects/anymal-large.png" hideBorder=true>
+<!-- <ProjectDetail image="/projects/anymal-large.png" hideBorder=true> -->
+<ProjectDetail image="/projects/anymal.gif" hideBorder=true> 
 </ProjectDetail>
 
 [[Demo Here](https://linan1109.github.io/urdf-loaders/js)], [[Code on GitHub](https://github.com/linan1109/urdf-loaders)]
