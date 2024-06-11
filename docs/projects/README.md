@@ -45,7 +45,7 @@ This project is conducted at the [IoT Lab](https://www.iot-lab.ch/projects-conne
 
 ## An AI player for 3D Pinball Space Cadet
 
-**Sep. 2023 - Ongoing**
+**Sep. 2023 - Dec. 2023**
 
 <ProjectDetail image="/projects/3dpinball.gif" hideBorder=true>
 
@@ -58,7 +58,7 @@ This project is just for fun. It includes developing an AI player for the classi
 
 ## Explainability Method for Recommender Systems
 
-**Feb. 2023 - Ongoing**
+**Feb. 2023 - May 2024**
 
 <ProjectDetail image="/projects/rose.png" hideBorder=true>
 </ProjectDetail>
