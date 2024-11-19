@@ -39,7 +39,7 @@ footer: MIT Licensed | Powered by VuePress
 
 ## About Me
 Hi, I'm Nan, a PhD student in Neuroscience at the [University of Zurich（UZH)][uzh-home].
-I hold an MSc in Computer Science (Informatik) with a specialization in Artificial Intelligence, also from [UZH][uzh-home]. 
+I hold an MSc in Neuroscience (Informatik) with a specialization in Artificial Intelligence, also from [UZH][uzh-home]. 
 Prior to that, I earned my Bachelor's degree in Software Engineering from [Beihang University (BUAA)][buaa-home] in Beijing.
 
 My research focuses on leveraging machine learning algorithms to address real-world challenges while emphasizing their interpretability and explainability. 
