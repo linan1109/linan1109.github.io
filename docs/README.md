@@ -140,6 +140,20 @@ with quantitative metrics to evaluate these explainers.
     .card-content p
       -webkit-margin-after 0.2em
 
+.medium-zoom-image--opened {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100vh;
+  object-fit: contain;
+  z-index: 1000;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: transform 0.3s ease, width 0.3s ease, height 0.3s ease;
+}
+
 @media (max-width: 419px)
   .theme-container.home-page .page
     p, ul, ol
