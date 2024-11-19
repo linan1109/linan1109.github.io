@@ -8,9 +8,9 @@ lang: en-US
 contributors: false
 ---
 
-# Projects
+# Representative Projects
 
-## Visual-Assisted Workflow for Locomotion Learning
+## Multi-Robot Interactive Simulation and Analysis Platform
 
 **Mar. 2024 - Ongoing**
 
@@ -18,14 +18,13 @@ contributors: false
 <ProjectDetail image="/projects/anymal.gif" hideBorder=true> 
 </ProjectDetail>
 
-[[Demo Here](https://linan1109.github.io/urdf-loaders/js)], [[Code on GitHub](https://github.com/linan1109/urdf-loaders)]
 
 This project is under the supervision of professor and researchers at [ETH AI center](https://ai.ethz.ch/). 
 
- <!-- - **Description**: This project focuses on the investigation into appropriate metrics and visualization techniques to steer the quadrupedal locomotion learning process interactively. This action will be an important step towards a more transparent learning system. -->
+ <!-- - **Description**: This project focuses on the investigation into facilitating the locomotion policies training process by integrating simulation, visualization, and analysis in a single tool. -->
  <!-- - **Main Work**: Conduct in-depth research on the Dynamics Explorer system and other relevant visualization techniques. Integrate state-of-the-art quadrupedal locomotion learning algorithms, leveraging platforms such as Isaac Gym and RaiSim for simulation and experimentation. -->
 
-**Objective**: This project focuses on developing visual tools that facilitate quadrupedal locomotion learning. By leveraging advanced visualization techniques, it aims to enhance the understanding of how quadrupedal robots can be trained more effectively.
+**Objective**: This project focuses on the investigation into facilitating the locomotion policies training process by integrating simulation, visualization, and analysis in a single tool. It allows users to observe robot behaviors, compare multiple policies, inspect key measurements, and capture key frames.
 
 <!-- **Contributions**:
 - Algorithm Research & Integration: Researched and implemented state-of-the-art locomotion learning algorithms. This step included reviewing the latest methodologies, identifying best practices, and customizing them for quadrupedal robots.
@@ -34,7 +33,7 @@ This project is under the supervision of professor and researchers at [ETH AI ce
 
 ## Interpretable Machine Learning Algorithm for Drunk Driving Detection 
 
-**Dec. 2023 - Ongoing**
+**Dec. 2023 - Aug. 2024**
 
 
 This project is conducted at the [IoT Lab](https://www.iot-lab.ch/projects-connectedmobility/drive/) at ETHz, and under supervision of Professor [Manuel Günther](https://www.ifi.uzh.ch/en/aiml/people/guenther.html) at [AIML Group](https://www.ifi.uzh.ch/en/aiml.html) of UZH.
