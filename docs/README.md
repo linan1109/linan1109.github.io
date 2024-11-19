@@ -38,12 +38,12 @@ footer: MIT Licensed | Powered by VuePress
 
 
 ## About Me
-Hi, I am Nan, a PhD student in Neuroscience at [University of Zurich（UZH)][uzh-home].
-I received my MSc degree in Computer Science (in German, Informatik) at the [University of Zurich（UZH)][uzh-home], with a major in Artificial Intelligence. 
-Before that, I received my Bachelor's degree in Software Engineering from [Beihang University (BUAA)][buaa-home] in Beijing.
+Hi, I'm Nan, a PhD student in Neuroscience at the [University of Zurich（UZH)][uzh-home].
+I hold an MSc in Computer Science (Informatik) with a specialization in Artificial Intelligence, also from [UZH][uzh-home]. 
+Prior to that, I earned my Bachelor's degree in Software Engineering from [Beihang University (BUAA)][buaa-home] in Beijing.
 
-I am interested in applying machine learning algorithms to solve real-world problems and make them interpretable and explainable.
-I am also interested in Human-Computer Interaction and Software Engineering.
+My research focuses on leveraging machine learning algorithms to address real-world challenges while emphasizing their interpretability and explainability. 
+I’m also deeply interested in the fields of Human-Computer Interaction and Software Engineering, exploring how AI can be made more intuitive and accessible for everyone.
 
 
 [uzh-home]: https://www.uzh.ch/en.html
@@ -54,7 +54,7 @@ I am also interested in Human-Computer Interaction and Software Engineering.
 ## Education
 
 [→ To More Details][education-detail]
- - Oct. 2024 - Current: PhD in Neuroscience, [University of Zurich][uzh-home], Switzerland
+ - Oct. 2024 - Present: PhD in Neuroscience, [University of Zurich][uzh-home], Switzerland
  - Sep. 2022 - Oct. 2024: Master of Science in Computer Science, [University of Zurich][uzh-home], Switzerland
  - Sep. 2016 - Jun. 2021: Bachelor of Engineering in Software Engineering, [Beihang University][buaa-home], China
 
@@ -79,12 +79,10 @@ Emphasized precision and interpretability, employing diverse techniques in multi
 
 <ProjectCard image="/projects/anymal.png" hideBorder=true>
 
-  **Visual-Assisted Workflow for Locomotion Learning**
+  **Multi-Robot Interactive Simulation and Analysis Platform**
 
-
-This project focuses on the investigation into appropriate metrics and visualization techniques to steer the quadrupedal locomotion learning process interactively. This action will be an important step towards a more transparent learning system.
-
-  [[Demo](https://linan1109.github.io/urdf-loaders/js)]
+This project addresses the challenges roboticists face in training locomotion policies by developing an interactive simulation and visualization framework.
+The framework is designed to facilitate the learning process for quadrupedal locomotion, enabling more efficient and effective policy comparison and communication.
 
 </ProjectCard>
 
