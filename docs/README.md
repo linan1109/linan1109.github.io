@@ -38,15 +38,13 @@ footer: MIT Licensed | Powered by VuePress
 
 
 ## About Me
-I am a Master student in Computer Science (in German, Informatik) at the [University of Zurich（UZH)][uzh-home], with a major in Artificial Intelligence. 
+Hi, I am Nan, a PhD student in Neuroscience at [University of Zurich（UZH)][uzh-home].
+I received my MSc degree in Computer Science (in German, Informatik) at the [University of Zurich（UZH)][uzh-home], with a major in Artificial Intelligence. 
 Before that, I received my Bachelor's degree in Software Engineering from [Beihang University (BUAA)][buaa-home] in Beijing.
 
-I am interested in applying machine learning algorithms to solve real-world problems. 
-Now I am focusing on the field of multivariate time series classification and explainable Aartificial intelligence.
-I am also interested in software engineering, especially in writing clean and maintainable code.
+I am interested in applying machine learning algorithms to solve real-world problems and make them interpretable and explainable.
+I am also interested in Human-Computer Interaction and Software Engineering.
 
-I am currently working on my Master's thesis on the topic of "Interpretable Machine Learning Algorithm for Drunk Driving Detection" 
-at [Bosch Iot Lab][bosch-iot], [ETH Zurich][eth-home].
 
 [uzh-home]: https://www.uzh.ch/en.html
 [buaa-home]: https://ev.buaa.edu.cn/
@@ -56,9 +54,9 @@ at [Bosch Iot Lab][bosch-iot], [ETH Zurich][eth-home].
 ## Education
 
 [→ To More Details][education-detail]
+ - Oct. 2024 - Current: PhD in Neuroscience, [University of Zurich][uzh-home], Switzerland
  - Sep. 2022 - Oct. 2024: Master of Science in Computer Science, [University of Zurich][uzh-home], Switzerland
  - Sep. 2016 - Jun. 2021: Bachelor of Engineering in Software Engineering, [Beihang University][buaa-home], China
-
 
 [education-detail]: /education/
 
