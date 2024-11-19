@@ -8,7 +8,7 @@ pageClass: home-page
 lang: en-US
 # some data for the components
 
-name: Nan Li
+name: Veronika Gambin
 profile: /profile.png
 
 socials:
