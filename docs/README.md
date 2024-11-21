@@ -17,7 +17,7 @@ socials:
     link: https://github.com/linan1109
   - title: LinkedIn
     icon: "/icons/logo-linkedin.svg"
-    link: www.linkedin.com/in/linan1109
+    link: https://www.linkedin.com/in/linan1109
   - title: nan.li@irm.uzh.ch
     icon: "/icons/mail-outline.svg"
     link: mailto:nan.li@irm.uzh.ch
