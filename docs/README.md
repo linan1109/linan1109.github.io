@@ -17,10 +17,10 @@ socials:
     link: https://github.com/linan1109
   - title: LinkedIn
     icon: "/icons/logo-linkedin.svg"
-    link: https://www.linkedin.com/linan1109
-  - title: nan.li@uzh.ch
+    link: www.linkedin.com/in/linan1109
+  - title: nan.li@irm.uzh.ch
     icon: "/icons/mail-outline.svg"
-    link: mailto:nan.li@uzh.ch
+    link: mailto:nan.li@irm.uzh.ch
   - title: CV
     icon: "/icons/document-outline.svg"
     link: /cv/cv.pdf
