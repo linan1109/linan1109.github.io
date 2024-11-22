@@ -10,9 +10,6 @@ contributors: false
 
 # Education
 
-## University of Zurich - PhD in Neuroscience
-**Oct. 2024 - Present** 
-
 ## University of Zurich - MSc in Computer Science
 **Sep. 2022 - Oct. 2024**
 
