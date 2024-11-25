@@ -38,7 +38,7 @@ footer: MIT Licensed | Powered by VuePress
 
 
 ## About Me
-Hi, I'm Nan, a PhD student in Neuroscience at the [University of Zurich（UZH)][uzh-home].
+Hi, I'm Nan, a PhD student in Data Science at the [University of Zurich（UZH)][uzh-home].
 I hold an MSc in Computer Science (Informatik) with a specialization in Artificial Intelligence, also from [UZH][uzh-home]. 
 Prior to that, I earned my Bachelor's degree in Software Engineering from [Beihang University (BUAA)][buaa-home] in Beijing.
 
