@@ -26,8 +26,7 @@ socials:
     link: /cv/cv.pdf
   - title: Zurich, Switzerland
     icon: "/icons/map-pin.svg"
-    link: https://maps.app.goo.gl/ddX75yrfZHpC1jag6
-
+    link: https://maps.app.goo.gl/ccXh2msqR15znt2j7
 
 footer: MIT Licensed | Powered by VuePress
 ---
