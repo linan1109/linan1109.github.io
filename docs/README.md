@@ -2,7 +2,7 @@
 sidebar: auto
 sidebarDepth: 2
 home: true
-title: Home
+title: Nan Li
 externalLinkIcon: false
 pageClass: home-page
 lang: en-US
@@ -54,7 +54,7 @@ I’m also deeply interested in the fields of Human-Computer Interaction and Sof
 ## Education
 
 [→ To More Details][education-detail]
- - Oct. 2024 - Present: PhD in Neuroscience, [University of Zurich][uzh-home], Switzerland
+ - Oct. 2024 - Present: PhD in Data Science, [University of Zurich][uzh-home], Switzerland
  - Sep. 2022 - Oct. 2024: Master of Science in Computer Science, [University of Zurich][uzh-home], Switzerland
  - Sep. 2016 - Jun. 2021: Bachelor of Engineering in Software Engineering, [Beihang University][buaa-home], China
 
