@@ -2,7 +2,7 @@
 sidebar: auto
 sidebarDepth: 2
 home: false
-title: Projects
+title: Representative Projects
 externalLinkIcon: true
 lang: en-US
 contributors: false
