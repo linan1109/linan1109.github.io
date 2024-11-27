@@ -17,7 +17,7 @@ socials:
 #    link: https://github.com/linan1109
   - title: LinkedIn
     icon: "/icons/logo-linkedin.svg"
-    link: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="veronika-gambin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ch.linkedin.com/in/veronika-gambin?trk=profile-badge">Veronika G.</a></div>          
+    link: https://www.linkedin.com/in/veronika-gambin
   - title: veronika.gambin@irm.uzh.ch
     icon: "/icons/mail-outline.svg"
     link: mailto:veronika.gambin@irm.uzh.ch
