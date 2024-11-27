@@ -1,4 +1,4 @@
-This is the Personal Website of [Nan Li](https://linan1109.github.io/).
+This is the Personal Website of [Veronika Gambin](https://veronikagambin.github.io/).
 
 ### Credit
 This website is built with [VuePress](https://vuepress.vuejs.org/), a static site generator powered by Vue.js. 
