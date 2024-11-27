@@ -17,10 +17,10 @@ socials:
 #    link: https://github.com/linan1109
   - title: LinkedIn
     icon: "/icons/logo-linkedin.svg"
-    link: https://www.linkedin.com/in/veronika-gambin/
-  - title: veronika.gambin@uzh.irm.ch
+    link: <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="veronika-gambin" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ch.linkedin.com/in/veronika-gambin?trk=profile-badge">Veronika G.</a></div>          
+  - title: veronika.gambin@irm.uzh.ch
     icon: "/icons/mail-outline.svg"
-    link: mailto:veronika.gambin@uzh.irm.ch
+    link: mailto:veronika.gambin@irm.uzh.ch
   - title: CV
     icon: "/icons/document-outline.svg"
     link: /cv/cv.pdf
@@ -39,25 +39,25 @@ footer: MIT Licensed | Powered by VuePress
 ## About Me
 
 Hi, I'm Veronika, a PhD student in Neuroscience at the [University of Zurich（UZH)][uzh-home].
-I hold an MSc in Neuroscience (Informatik) with a specialization in Artificial Intelligence, also from [UZH][uzh-home]. 
+I hold an MSc in Biology with a specialization in Neuroscience, also from [UZH][uzh-home]. 
 
-Prior to that, I earned my Bachelor's degree in Software Engineering from [Beihang University (BUAA)][buaa-home] in Beijing.
+Prior to that, I earned my Bachelor's degree in Biology from [St Petersburg University (SPbU)][spbu-home] in Saint-Petersburg.
 
 My research focuses on leveraging machine learning algorithms to address real-world challenges while emphasizing their interpretability and explainability. 
 I’m also deeply interested in the fields of Human-Computer Interaction and Software Engineering, exploring how AI can be made more intuitive and accessible for everyone.
 
 
 [uzh-home]: https://www.uzh.ch/en.html
-[buaa-home]: https://ev.buaa.edu.cn/
+[spbu-home]: https://english.spbu.ru/
 [bosch-iot]: https://www.iot-lab.ch/
 [eth-home]: https://ethz.ch/en.html
 
 ## Education
 
 [→ To More Details][education-detail]
- - Oct. 2024 - Present: PhD in Data Science, [University of Zurich][uzh-home], Switzerland
- - Sep. 2022 - Oct. 2024: Master of Science in Computer Science, [University of Zurich][uzh-home], Switzerland
- - Sep. 2016 - Jun. 2021: Bachelor of Engineering in Software Engineering, [Beihang University][buaa-home], China
+ - Oct. 2024 - Present: PhD in Neuroscience, [University of Zurich][uzh-home], Switzerland
+ - Feb. 2023 - Nov. 2024: Master of Science in Biology, [University of Zurich][uzh-home], Switzerland
+ - Sep. 2017 - Jun. 2021: Bachelor of Science in Biology, [St Petersburg University][spbu-home], Russia
 
 [education-detail]: /education/
 
