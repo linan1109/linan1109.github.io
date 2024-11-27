@@ -2,7 +2,7 @@
 sidebar: auto
 sidebarDepth: 2
 home: true
-title: Home
+title: Nan Li
 externalLinkIcon: false
 pageClass: home-page
 lang: en-US
@@ -28,7 +28,6 @@ socials:
     icon: "/icons/map-pin.svg"
     link: https://maps.app.goo.gl/ddX75yrfZHpC1jag6](https://maps.app.goo.gl/dApBUWdUZVYk4g7X7
 
-
 footer: MIT Licensed | Powered by VuePress
 ---
 
@@ -38,8 +37,10 @@ footer: MIT Licensed | Powered by VuePress
 
 
 ## About Me
+
 Hi, I'm Nan, a PhD student in Neuroscience at the [University of Zurich（UZH)][uzh-home].
 I hold an MSc in Neuroscience (Informatik) with a specialization in Artificial Intelligence, also from [UZH][uzh-home]. 
+
 Prior to that, I earned my Bachelor's degree in Software Engineering from [Beihang University (BUAA)][buaa-home] in Beijing.
 
 My research focuses on leveraging machine learning algorithms to address real-world challenges while emphasizing their interpretability and explainability. 
@@ -54,7 +55,7 @@ I’m also deeply interested in the fields of Human-Computer Interaction and Sof
 ## Education
 
 [→ To More Details][education-detail]
- - Oct. 2024 - Present: PhD in Neuroscience, [University of Zurich][uzh-home], Switzerland
+ - Oct. 2024 - Present: PhD in Data Science, [University of Zurich][uzh-home], Switzerland
  - Sep. 2022 - Oct. 2024: Master of Science in Computer Science, [University of Zurich][uzh-home], Switzerland
  - Sep. 2016 - Jun. 2021: Bachelor of Engineering in Software Engineering, [Beihang University][buaa-home], China
 
@@ -139,6 +140,20 @@ with quantitative metrics to evaluate these explainers.
         max-height 120px
     .card-content p
       -webkit-margin-after 0.2em
+
+.medium-zoom-image--opened {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100vh;
+  object-fit: contain;
+  z-index: 1000;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  transition: transform 0.3s ease, width 0.3s ease, height 0.3s ease;
+}
 
 @media (max-width: 419px)
   .theme-container.home-page .page
