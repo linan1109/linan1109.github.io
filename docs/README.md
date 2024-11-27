@@ -39,12 +39,10 @@ footer: MIT Licensed | Powered by VuePress
 ## About Me
 
 Hi, I'm Veronika! Currently, I'm doing my PhD in Neuroscience at the [University of Zurich（UZH)][uzh-home].
+
 My research centers on understanding of sleep and sleep-related disorders. My work involves innovative experiments using driving simulations to investigate how various sleep-related disorders affect fitness to drive. 
 By employing a multidisciplinary approach that integrates advanced thechnologies and artificial intelligence, I aim to bridge the gap between scientific findings and practical applications, making impactful contributions to real-world challenges.
 
-I hold a MSc in Biology with a specialization in Neuroscience, also from [UZH][uzh-home]. 
-
-Prior to that, I earned my Bachelor's degree in Biology from [St Petersburg University (SPbU)][spbu-home] in Saint-Petersburg.
 
 [uzh-home]: https://www.uzh.ch/en.html
 [spbu-home]: https://english.spbu.ru/
