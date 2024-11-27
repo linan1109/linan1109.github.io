@@ -23,7 +23,7 @@ socials:
     link: mailto:veronika.gambin@irm.uzh.ch
   - title: CV
     icon: "/icons/document-outline.svg"
-    link: /cv.pdf
+    link: /cv/cv.pdf
   - title: Zurich, Switzerland
     icon: "/icons/map-pin.svg"
     link: https://maps.app.goo.gl/dApBUWdUZVYk4g7X7
