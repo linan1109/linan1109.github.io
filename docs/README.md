@@ -12,21 +12,21 @@ name: Veronika Gambin
 profile: /profile.png
 
 socials:
-  - title: GitHub
-    icon: "/icons/logo-github.svg"
-    link: https://github.com/linan1109
+#  - title: GitHub
+#    icon: "/icons/logo-github.svg"
+#    link: https://github.com/linan1109
   - title: LinkedIn
     icon: "/icons/logo-linkedin.svg"
-    link: https://www.linkedin.com/linan1109
-  - title: nan.li@uzh.ch
+    link: https://www.linkedin.com/linan1109](https://www.linkedin.com/in/veronika-gambin/
+  - title: veronika.gambin@uzh.irm.ch
     icon: "/icons/mail-outline.svg"
-    link: mailto:nan.li@uzh.ch
+    link: mailto:veronika.gambin@uzh.irm.ch
   - title: CV
     icon: "/icons/document-outline.svg"
     link: /cv/cv.pdf
   - title: Zurich, Switzerland
     icon: "/icons/map-pin.svg"
-    link: https://maps.app.goo.gl/ddX75yrfZHpC1jag6
+    link: https://maps.app.goo.gl/ddX75yrfZHpC1jag6](https://maps.app.goo.gl/dApBUWdUZVYk4g7X7
 
 
 footer: MIT Licensed | Powered by VuePress
