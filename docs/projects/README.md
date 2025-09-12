@@ -12,12 +12,14 @@ contributors: false
 
 ## Multi-Robot Interactive Simulation and Analysis Platform
 
-**Mar. 2024 - Ongoing**
+**Mar. 2024 - May. 2025**
 
 <!-- <ProjectDetail image="/projects/anymal-large.png" hideBorder=true> -->
 <ProjectDetail image="/projects/anymal.gif" hideBorder=true> 
 </ProjectDetail>
 
+Paper accepted by Graphics Interface 2025
+[[Paper]()] [[Code](https://github.com/linan1109/MIRSA)] [[Try It Out](https://linan1109.github.io/MIRSA/js/)]
 
 This project is under the supervision of professor and researchers at [ETH AI center](https://ai.ethz.ch/). 
 
