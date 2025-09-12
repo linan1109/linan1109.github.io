@@ -103,6 +103,7 @@ with quantitative metrics to evaluate these explainers.
 
 ## On-Campus Works
 
+- Fall 2025: Teaching Assistant in the lecture ["BIO134 Programming in Biology"][this-site] at the University of Zurich
 - Fall 2023: Practical Tutor in the lecture ["Foundations of Data Science"][fds] (MSc & PhD) at the University of Zurich
 - Fall 2020: Teaching Assistant in the lecture ["Compiler Theory"][this-site] (BEng) at Beihang University
 - Spring 2020: Head Teaching Assistant in the lecture ["Object-Oriented Programming (Java)"][this-site] (BEng) at Beihang University
