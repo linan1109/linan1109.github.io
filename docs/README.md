@@ -83,6 +83,9 @@ Emphasized precision and interpretability, employing diverse techniques in multi
 This project addresses the challenges roboticists face in training locomotion policies by developing an interactive simulation and visualization framework.
 The framework is designed to facilitate the learning process for quadrupedal locomotion, enabling more efficient and effective policy comparison and communication.
 
+Paper accepted by Graphics Interface 2025
+[[Paper coming soon]()] [[Code](https://github.com/linan1109/MIRSA)] [[Try It Out](https://linan1109.github.io/MIRSA/js/)]
+
 </ProjectCard>
 
 
