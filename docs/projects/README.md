@@ -19,7 +19,7 @@ contributors: false
 </ProjectDetail>
 
 Paper accepted by Graphics Interface 2025
-[[Paper]()] [[Code](https://github.com/linan1109/MIRSA)] [[Try It Out](https://linan1109.github.io/MIRSA/js/)]
+[[Paper coming soon]()] [[Code](https://github.com/linan1109/MIRSA)] [[Try It Out](https://linan1109.github.io/MIRSA/js/)]
 
 This project is under the supervision of professor and researchers at [ETH AI center](https://ai.ethz.ch/). 
 
