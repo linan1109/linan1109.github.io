@@ -84,7 +84,7 @@ This project addresses the challenges roboticists face in training locomotion po
 The framework is designed to facilitate the learning process for quadrupedal locomotion, enabling more efficient and effective policy comparison and communication.
 
 Paper accepted by Graphics Interface 2025
-[[Paper coming soon]()] [[Code](https://github.com/linan1109/MIRSA)] [[Try It Out](https://linan1109.github.io/MIRSA/js/)]
+[[Paper](https://dl.acm.org/doi/full/10.1145/3769872.3769898)] [[Code](https://github.com/linan1109/MIRSA)] [[Try It Out](https://linan1109.github.io/MIRSA/js/)]
 
 </ProjectCard>
 
