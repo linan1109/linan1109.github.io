@@ -42,7 +42,6 @@ Prior to that, I earned my Bachelor's degree in Software Engineering from [Beiha
 My research centers on machine learning for time-series data, with a particular focus on interpretability and explainability.
 I work on multivariate time-series modeling across domains such as driving behavior and physiological signals.
 I'm also interested in Human-Computer Interaction and Software Engineering, exploring how AI can be made more intuitive and accessible for everyone.My research focuses on leveraging machine learning algorithms to address real-world challenges while emphasizing their interpretability and explainability.
-I'm also deeply interested in the fields of Human-Computer Interaction and Software Engineering, exploring how AI can be made more intuitive and accessible for everyone.
 
 ## Education
 
