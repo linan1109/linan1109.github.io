@@ -31,54 +31,43 @@ socials:
 footer: MIT Licensed | Powered by VuePress
 ---
 
-
-
 <ProfileSection :frontmatter="$page.frontmatter" />
 
-
 ## About Me
+
 Hi, I'm Nan, a PhD student in Data Science at the [University of Zurich (UZH)][uzh-home].
-I hold an MSc in Computer Science (Informatik) with a specialization in Artificial Intelligence, also from [UZH][uzh-home]. 
+I hold an MSc in Computer Science (Informatik) with a specialization in Artificial Intelligence, also from [UZH][uzh-home].
 Prior to that, I earned my Bachelor's degree in Software Engineering from [Beihang University (BUAA)][buaa-home] in Beijing.
 
-My research focuses on leveraging machine learning algorithms to address real-world challenges while emphasizing their interpretability and explainability. 
-I’m also deeply interested in the fields of Human-Computer Interaction and Software Engineering, exploring how AI can be made more intuitive and accessible for everyone.
-
-
-[uzh-home]: https://www.uzh.ch/en.html
-[buaa-home]: https://ev.buaa.edu.cn/
-[bosch-iot]: https://www.iot-lab.ch/
-[eth-home]: https://ethz.ch/en.html
+My research centers on machine learning for time-series data, with a particular focus on interpretability and explainability.
+I work on multivariate time-series modeling across domains such as driving behavior and physiological signals.
+I'm also interested in Human-Computer Interaction and Software Engineering, exploring how AI can be made more intuitive and accessible for everyone.My research focuses on leveraging machine learning algorithms to address real-world challenges while emphasizing their interpretability and explainability.
+I'm also deeply interested in the fields of Human-Computer Interaction and Software Engineering, exploring how AI can be made more intuitive and accessible for everyone.
 
 ## Education
 
 [→ To More Details][education-detail]
- - Oct. 2024 - Present: PhD in Data Science, [University of Zurich][uzh-home], Switzerland
- - Sep. 2022 - Oct. 2024: Master of Science in Computer Science, [University of Zurich][uzh-home], Switzerland
- - Sep. 2016 - Jun. 2021: Bachelor of Engineering in Software Engineering, [Beihang University][buaa-home], China
 
-[education-detail]: /education/
-
+- Oct. 2024 - Present: PhD in Data Science, [University of Zurich][uzh-home], Switzerland
+- Sep. 2022 - Oct. 2024: Master of Science in Computer Science, [University of Zurich][uzh-home], Switzerland
+- Sep. 2016 - Jun. 2021: Bachelor of Engineering in Software Engineering, [Beihang University][buaa-home], China
 
 ## Projects
 
 [→ To Full List][projects-detail]
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+<ProjectCard image="/projects/adhd.png" hideBorder=true>
 
-  **Interpretable Machine Learning Algorithm for Drunk Driving Detection**
+**Stimulant Drug Holidays and Driving Performance in Adults with ADHD**
 
+A randomized crossover trial studying how stimulant drug holidays affect simulated driving in adults with ADHD, applying interpretable time-series machine learning to multimodal driving data.
 
-Crafted interpretable machine learning algorithms for drunk driving detection utilizing a multi-sensor dataset. 
-Emphasized precision and interpretability, employing diverse techniques in multivariate time-series classification tailored for driving data analysis.
-
-  [[Website](https://www.iot-lab.ch/projects-connectedmobility/drive/)] [[SRF video](https://www.iot-lab.ch/news/our-in-vehicle-drunk-driving-detection-featured-on-srf-swiss-tv/)] 
-
+[[Protocol](http://dx.doi.org/10.21203/rs.3.rs-8611309/v1)]
 </ProjectCard>
 
 <ProjectCard image="/projects/anymal.png" hideBorder=true>
 
-  **Multi-Robot Interactive Simulation and Analysis Platform**
+**Multi-Robot Interactive Simulation and Analysis Platform**
 
 This project addresses the challenges roboticists face in training locomotion policies by developing an interactive simulation and visualization framework.
 The framework is designed to facilitate the learning process for quadrupedal locomotion, enabling more efficient and effective policy comparison and communication.
@@ -88,18 +77,26 @@ Paper accepted by Graphics Interface 2025
 
 </ProjectCard>
 
-
 <ProjectCard image="/projects/rose.png" hideBorder=true>
 
-  **Explanation Methods for Recommender Systems**
+**Explanation Methods for Recommender Systems**
 
 Conducted research and implemented explanation methods for recommender systems’ outputs, along
-with quantitative metrics to evaluate these explainers. 
+with quantitative metrics to evaluate these explainers.
 
 </ProjectCard>
 
-[projects-detail]: /projects/
+## Publications
 
+[1] **Nan Li**, Fan Shi, Xiaoyu Zhang, April Yi Wang. *MRISA: A Visual Analytics Approach for Comparing Locomotion Policies in Robotics Training.* Graphics Interface 2025. [[DOI](https://doi.org/10.1145/3769872.3769898)]
+
+[2] **Nan Li**, Veronika Gambin, Boris Quednow, Pascal Burger, Ana Buadze, Benjamin Offenhammer, Kristina Keller, Stefan Lakämper. *Impact of drug holidays on simulated driving performance in adults with ADHD: a study protocol for a randomized crossover trial.* (Under review) [[Preprint](http://dx.doi.org/10.21203/rs.3.rs-8611309/v1)]
+
+[3] Veronika Gambin, **Nan Li**, Esther Irene Schwarz, Kristina Keller, Stefan Lakämper. *Validating a novel driving simulation-based MWT against the standard MWT in an OSA-cohort challenged by CPAP-withdrawal (DS-MWT2).* PLOS One (Accepted) [[Preprint](http://dx.doi.org/10.64898/2026.01.18.26344362)]
+
+[4] Tzvetan Popov, **Nan Li**, Veronika Gambin, Kristina Keller, Samuel Wehrli, Stefan Lakämper. *Predicting driver distraction using a single channel ear EEG.* (Under review) [[Preprint](https://doi.org/10.64898/2026.01.24.701469)]
+
+[5] Tzvetan Popov, **Nan Li**, Veronika Gambin, Kristina Keller, Samuel Wehrli, Stefan Lakämper. *The neuro-ocular costs of texting during driving.* (Under review) [[Preprint](http://dx.doi.org/10.1101/2025.08.15.670515)]
 
 ## On-Campus Works
 
@@ -107,10 +104,7 @@ with quantitative metrics to evaluate these explainers.
 - Fall 2023: Practical Tutor in the lecture ["Foundations of Data Science"][fds] (MSc & PhD) at the University of Zurich
 - Fall 2020: Teaching Assistant in the lecture ["Compiler Theory"][this-site] (BEng) at Beihang University
 - Spring 2020: Head Teaching Assistant in the lecture ["Object-Oriented Programming (Java)"][this-site] (BEng) at Beihang University
-- Fall 20129: Teaching Assistant in the lecture ["Algorithm Analysis and Design"][this-site] (BEng) at Beihang University
-
-[fds]: https://www.ifi.uzh.ch/en/dast/teaching/FDS.html
-[this-site]: /
+- Fall 2019: Teaching Assistant in the lecture ["Algorithm Analysis and Design"][this-site] (BEng) at Beihang University
 
 <!-- Custom style for this page -->
 
@@ -169,3 +163,20 @@ with quantitative metrics to evaluate these explainers.
           max-width 400px
 
 </style>
+
+[uzh-home]: https://www.uzh.ch/en.html
+
+[buaa-home]: https://ev.buaa.edu.cn/
+
+[bosch-iot]: https://www.iot-lab.ch/
+
+[eth-home]: https://ethz.ch/en.html
+
+[education-detail]: /education/
+
+[projects-detail]: /projects/
+
+[fds]: https://www.ifi.uzh.ch/en/dast/teaching/FDS.html
+
+[this-site]: /
+

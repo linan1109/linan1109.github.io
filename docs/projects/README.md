@@ -10,21 +10,49 @@ contributors: false
 
 # Representative Projects
 
+## Stimulant Drug Holidays and Driving Performance in Adults with ADHD
+
+**Oct. 2024 - Present**
+My doctoral project. A monocentric, randomized, observer-blinded crossover trial investigating how short stimulant drug holidays affect simulated driving performance in adults with ADHD, using an Integrated Driving Score derived from a monotonous car-following task, alongside eye-tracking, single-channel EEG, and non-invasive medication markers.
+[[Protocol Paper Preprint](http://dx.doi.org/10.21203/rs.3.rs-8611309/v1)]
+
+Led the study. Statistical analysis: data cleaning, Z-score-based Integrated Driving Score construction, and linear mixed models with repeated-measures ANOVA as sensitivity analysis. Built the time-series machine-learning pipeline integrating driving, eye-tracking, and EEG data.
+
+## Driving Simulation–based Maintenance of Wakefulness Test (DS-MWT)
+
+**Oct.2024 - Present**
+A monocentric randomized crossover trial validating a novel driving-simulation wakefulness test in an OSA cohort under CPAP withdrawal, aimed at improving clinical fitness-to-drive assessment.
+[[Protocol Paper](https://doi.org/10.64898/2026.01.18.26344362)]
+
+Assisted with experiment execution and multimodal data collection (EEG, eye-tracking, PSG), data processing, supporting ML-based predictive analysis.
+
+## Multimodal Driver Distraction Monitoring
+
+**May. 2025 - Aug. 2025**
+
+A project investigating the neurophysiological mechanisms of driver multitasking and developing lightweight wearable-based real-time distraction monitoring.
+[[Preprint: Ear-EEG Distraction Prediction](https://doi.org/10.64898/2026.01.24.701469)]
+[[Preprint: Neuro-ocular Costs of Texting](http://dx.doi.org/10.1101/2025.08.15.670515)]
+
+Built automated pipelines for cleaning, denoising, and aligning multimodal time-series data (EEG, eye-tracking, head motion, vehicle CAN bus), providing the data foundation for downstream modeling.
+
 ## Multi-Robot Interactive Simulation and Analysis Platform
 
 **Mar. 2024 - May. 2025**
 
 <!-- <ProjectDetail image="/projects/anymal-large.png" hideBorder=true> -->
+
 <ProjectDetail image="/projects/anymal.gif" hideBorder=true> 
 </ProjectDetail>
 
 Paper accepted by Graphics Interface 2025
 [[Paper](https://dl.acm.org/doi/full/10.1145/3769872.3769898)] [[Code](https://github.com/linan1109/MIRSA)] [[Try It Out](https://linan1109.github.io/MIRSA/js/)]
 
-This project is under the supervision of professor and researchers at [ETH AI center](https://ai.ethz.ch/). 
+This project is under the supervision of professor and researchers at [ETH AI center](https://ai.ethz.ch/).
 
- <!-- - **Description**: This project focuses on the investigation into facilitating the locomotion policies training process by integrating simulation, visualization, and analysis in a single tool. -->
- <!-- - **Main Work**: Conduct in-depth research on the Dynamics Explorer system and other relevant visualization techniques. Integrate state-of-the-art quadrupedal locomotion learning algorithms, leveraging platforms such as Isaac Gym and RaiSim for simulation and experimentation. -->
+<!-- - **Description**: This project focuses on the investigation into facilitating the locomotion policies training process by integrating simulation, visualization, and analysis in a single tool. -->
+
+<!-- - **Main Work**: Conduct in-depth research on the Dynamics Explorer system and other relevant visualization techniques. Integrate state-of-the-art quadrupedal locomotion learning algorithms, leveraging platforms such as Isaac Gym and RaiSim for simulation and experimentation. -->
 
 **Objective**: This project focuses on the investigation into facilitating the locomotion policies training process by integrating simulation, visualization, and analysis in a single tool. It allows users to observe robot behaviors, compare multiple policies, inspect key measurements, and capture key frames.
 
@@ -33,16 +61,15 @@ This project is under the supervision of professor and researchers at [ETH AI ce
 - Simulation Platform: Employed RaiSim, a physics engine, to simulate different locomotion learning scenarios and experiment with algorithm effectiveness, creating a controlled environment for testing.
 - Visualization Website: Developed a web-based visualization platform to interpret the outcomes of different learning strategies, helping researchers analyze the learning behavior and adjust strategies accordingly. -->
 
-## Interpretable Machine Learning Algorithm for Drunk Driving Detection 
+## Interpretable Machine Learning Algorithm for Drunk Driving Detection
 
 **Dec. 2023 - Aug. 2024**
-
 
 This project is conducted at the [IoT Lab](https://www.iot-lab.ch/projects-connectedmobility/drive/) at ETHz, and under supervision of Professor [Manuel Günther](https://www.ifi.uzh.ch/en/aiml/people/guenther.html) at [AIML Group](https://www.ifi.uzh.ch/en/aiml.html) of UZH.
 
 - **Description**: Developed interpretable machine learning algorithms to detect drunk driving using a multi-sensor dataset, focusing on creating accurate models for effective interpretation. Explored various approaches for multivariate time-series classification and used them on driving data.
- - **Dataset**: Utilized a unique real-world dataset collected from real vehicles, including vehicle CAN bus data, eye tracking data, gas sensor data, vital sensor data, and in-vehicle radar data.
- - **Responsibilities**: Led the development and training of interpretable time-series classification models, employing techniques such as logistic regression, convolutional neural networks, recurrent neural networks, etc. Investigated methods for generating comprehensive explanations for model predictions.
+- **Dataset**: Utilized a unique real-world dataset collected from real vehicles, including vehicle CAN bus data, eye tracking data, gas sensor data, vital sensor data, and in-vehicle radar data.
+- **Responsibilities**: Led the development and training of interpretable time-series classification models, employing techniques such as logistic regression, convolutional neural networks, recurrent neural networks, etc. Investigated methods for generating comprehensive explanations for model predictions.
 
 ## An AI player for 3D Pinball Space Cadet
 
@@ -56,7 +83,6 @@ This project is conducted at the [IoT Lab](https://www.iot-lab.ch/projects-conne
 
 This project is just for fun. It includes developing an AI player for the classic Windows game '3D Pinball Space Cadet', capable of learning from gameplay to achieve high scores. And it uses a combination of Computer Vision, Reinforcement Learning, and Genetic Algorithm.
 
-
 ## Explainability Method for Recommender Systems
 
 **Feb. 2023 - May 2024**
@@ -66,8 +92,7 @@ This project is just for fun. It includes developing an AI player for the classi
 
 This project was under the supervision of Professor [Abraham Bernstein](https://www.ifi.uzh.ch/en/ddis/people/bernstein.html) at [Dynamic and Distributed Information Systems Group](https://www.ifi.uzh.ch/en/ddis.html) of UZH.
 
-Through extensive research,  experiment, and testing, we implement eight recommenders, six explanation methods, and eight metrics. We summarize their requirements, limitations, and shed light on their strengths and weaknesses. We carry out detailed analysis for each applicable recommender-explanation-metric combination utilizing experiment pipeline and carefully crafted datasets. We complete this report by discussing key observations, comparing and contrasting model performance, and elaborating on our insights into the reasons behind the performance disparity. 
-
+Through extensive research,  experiment, and testing, we implement eight recommenders, six explanation methods, and eight metrics. We summarize their requirements, limitations, and shed light on their strengths and weaknesses. We carry out detailed analysis for each applicable recommender-explanation-metric combination utilizing experiment pipeline and carefully crafted datasets. We complete this report by discussing key observations, comparing and contrasting model performance, and elaborating on our insights into the reasons behind the performance disparity.
 
 ## GPT-Generated Text Detection
 
@@ -77,19 +102,17 @@ Through extensive research,  experiment, and testing, we implement eight recomme
 
 Developed a system to differentiate between paragraphs written by humans and those generated by Chat-GPT. Utilized datasets comprising articles from Wikipedia and text generated by GPT-3 and GPT-3.5 using the same articles' starting sentences as prompts. Achieved high accuracy (>0.8) across all models.
 
-
 ## Influence Maximization in Twitter Network
 
 **Sep. 2022 - Dec. 2022**
 
 <ProjectDetail image="/projects/NS_Maximization.jpg" hideBorder=true></ProjectDetail>
- 
+
 [[Code Here](https://github.com/davidguzmanp/Influence-Maximization-in-Twitter-as-a-Social-Network-Graph)], [[Report](https://linan1109.github.io/projects/NS_Maximization.pdf)]
 
- - **Description**: Conducted research on identifying a small subset of the most influential users in the Twitter network and evaluated the performance of various algorithms.
- - **Main Work**: Utilized a dataset sampled from the Twitter follower network in 2012. Modeled the diffusion process to propagate information by adapting four well-established diffusion models. Analyzed the outcomes of three Information Maximization algorithms.
- - **Responsibilities**: Researched and developed the Independent Cascade Model and Decreasing Cascade Model. Designed and implemented a naive greedy algorithm to maximize information influence.
-
+- **Description**: Conducted research on identifying a small subset of the most influential users in the Twitter network and evaluated the performance of various algorithms.
+- **Main Work**: Utilized a dataset sampled from the Twitter follower network in 2012. Modeled the diffusion process to propagate information by adapting four well-established diffusion models. Analyzed the outcomes of three Information Maximization algorithms.
+- **Responsibilities**: Researched and developed the Independent Cascade Model and Decreasing Cascade Model. Designed and implemented a naive greedy algorithm to maximize information influence.
 
 ## Project Review Assistant System Based on BlockChain
 
@@ -97,15 +120,14 @@ Developed a system to differentiate between paragraphs written by humans and tho
 
 A project review web application leveraging blockchain technology and distributed storage. Key functionalities include uploading projects to the blockchain, conducting project reviews and ratings, and suggesting suitable reviewers.
 
- - **Frontend**: Built with JavaScript and TypeScript using the React framework.
- - **Backend**: Implemented using Java and Kotlin with the Spring Boot framework, backed by MongoDB as the database.
- - **Blockchain part**: Integrated Go-lang and the Hyperledger Fabric blockchain framework, leveraging IPFS for distributed storage.
-  
+- **Frontend**: Built with JavaScript and TypeScript using the React framework.
+- **Backend**: Implemented using Java and Kotlin with the Spring Boot framework, backed by MongoDB as the database.
+- **Blockchain part**: Integrated Go-lang and the Hyperledger Fabric blockchain framework, leveraging IPFS for distributed storage.
+
 ## Instant Message Web Application - KniLIM
 
 **Jan. 2020 - Jun. 2020**
-<ProjectDetail image="/projects/im.png" hideBorder=true>    
-
+<ProjectDetail image="/projects/im.png" hideBorder=true>
 
 </ProjectDetail>
 
@@ -114,3 +136,4 @@ A project review web application leveraging blockchain technology and distribute
 KniLIM adopts a multi-platform approach, allowing usage on both browsers and desktops. Functionally, the system is divided into chat system, dynamic system, search system, friend system, group chat system, and recommendation system. The main features of the chat system include one-on-one chatting, text transmission, voice transmission, image and file transmission, and real-time audio-video calls. The dynamic system features friend updates. The search system enables searching chat records and friends. The friend system facilitates user registration, basic information input, friend addition, and deletion. The group chat system allows group creation and exit, group chatting, text transmission, voice transmission, and image and file transmission. The recommendation system provides friend and group suggestions.
 
 In the core chat system, KniLIM employs a P2P architecture based on Socket long connections to ensure the timeliness of message exchange, while operations like login, registration, and friend addition utilize a short connection approach based on REST. Moreover, the server-side core functionalities are decoupled into different microservices, enabling mutual communication and invocation between services through RPC, thereby enhancing the system's flexibility and scalability.
+
