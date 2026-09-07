@@ -47,7 +47,7 @@ I'm also interested in Human-Computer Interaction and Software Engineering, expl
 
 [→ To More Details][education-detail]
 
-- Oct. 2024 - Present: PhD in Data Science, [University of Zurich][uzh-home], Switzerland
+- Feb. 2025 - Present: PhD in Data Science, [University of Zurich][uzh-home], Switzerland
 - Sep. 2022 - Oct. 2024: Master of Science in Computer Science, [University of Zurich][uzh-home], Switzerland
 - Sep. 2016 - Jun. 2021: Bachelor of Engineering in Software Engineering, [Beihang University][buaa-home], China
 
@@ -91,15 +91,23 @@ with quantitative metrics to evaluate these explainers.
 
 [2] **Nan Li**, Veronika Gambin, Boris Quednow, Pascal Burger, Ana Buadze, Benjamin Offenhammer, Kristina Keller, Stefan Lakämper. *Impact of drug holidays on simulated driving performance in adults with ADHD: a study protocol for a randomized crossover trial.* (Under review) [[Preprint](http://dx.doi.org/10.21203/rs.3.rs-8611309/v1)]
 
-[3] Veronika Gambin, **Nan Li**, Esther Irene Schwarz, Kristina Keller, Stefan Lakämper. *Validating a novel driving simulation-based MWT against the standard MWT in an OSA-cohort challenged by CPAP-withdrawal (DS-MWT2).* PLOS One (Accepted) [[Preprint](http://dx.doi.org/10.64898/2026.01.18.26344362)]
+[3] Veronika Gambin, **Nan Li**, Esther Irene Schwarz, Kristina Keller, Stefan Lakämper. *Validating a novel driving simulation-based MWT against the standard MWT in an OSA-cohort challenged by CPAP-withdrawal (DS-MWT2) – Protocol for a monocentric, controlled, randomized, crossover trial.* PLOS One, 21(7):e0341997, 2026. [[DOI](https://doi.org/10.1371/journal.pone.0341997)]
 
-[4] Tzvetan Popov, **Nan Li**, Veronika Gambin, Kristina Keller, Samuel Wehrli, Stefan Lakämper. *Predicting driver distraction using a single channel ear EEG.* (Under review) [[Preprint](https://doi.org/10.64898/2026.01.24.701469)]
+[4] Tzvetan Popov, **Nan Li**, Veronika Gambin, Kristina Keller, Samuel Wehrli, Stefan Lakämper. *Predicting driver distraction using a single channel ear EEG.* Available as a preprint. [[Preprint](https://doi.org/10.64898/2026.01.24.701469)]
 
-[5] Tzvetan Popov, **Nan Li**, Veronika Gambin, Kristina Keller, Samuel Wehrli, Stefan Lakämper. *The neuro-ocular costs of texting during driving.* (Under review) [[Preprint](http://dx.doi.org/10.1101/2025.08.15.670515)]
+[5] Tzvetan Popov, **Nan Li**, Veronika Gambin, Kristina Keller, Samuel Wehrli, Stefan Lakämper. *The neuro-ocular costs of texting during driving.* Available as a preprint. [[Preprint](http://dx.doi.org/10.1101/2025.08.15.670515)]
+
+## Conference Presentations
+
+- Oct. 2026: **Poster**, Sleep Europe 2026: 28th Congress of the European Sleep Research Society (ESRS), Maastricht, Netherlands.
+- Sep. 2026: **Oral presentation**, 27th World Congress of the International Traffic Medicine Association (ITMA), Tokyo, Japan.
+- Jun. 2026: **Oral presentation**, Swiss Society of Legal Medicine (SGRM) Annual Meeting, Chur, Switzerland.
+- Jun. 2025: **Oral presentation**, Swiss Society of Legal Medicine (SGRM) Annual Meeting, Locarno, Switzerland.
+- May 2025: **Oral presentation**, Graphics Interface 2025, British Columbia, Canada.
 
 ## On-Campus Works
 
-- Fall 2025: Teaching Assistant in the lecture ["BIO134 Programming in Biology"][this-site] at the University of Zurich
+- Fall 2025: Tutor in the lecture ["BIO134 Programming in Biology"][this-site] at the University of Zurich
 - Fall 2023: Practical Tutor in the lecture ["Foundations of Data Science"][fds] (MSc & PhD) at the University of Zurich
 - Fall 2020: Teaching Assistant in the lecture ["Compiler Theory"][this-site] (BEng) at Beihang University
 - Spring 2020: Head Teaching Assistant in the lecture ["Object-Oriented Programming (Java)"][this-site] (BEng) at Beihang University

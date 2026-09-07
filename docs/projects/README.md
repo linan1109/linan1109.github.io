@@ -22,7 +22,7 @@ Led the study. Statistical analysis: data cleaning, Z-score-based Integrated Dri
 
 **Oct.2024 - Present**
 A monocentric randomized crossover trial validating a novel driving-simulation wakefulness test in an OSA cohort under CPAP withdrawal, aimed at improving clinical fitness-to-drive assessment.
-[[Protocol Paper](https://doi.org/10.64898/2026.01.18.26344362)]
+[[Protocol Paper](https://doi.org/10.1371/journal.pone.0341997)]
 
 Assisted with experiment execution and multimodal data collection (EEG, eye-tracking, PSG), data processing, supporting ML-based predictive analysis.
 

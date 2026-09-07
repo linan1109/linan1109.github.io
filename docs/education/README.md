@@ -12,7 +12,7 @@ contributors: false
 
 ## University of Zurich - PhD in Data Science
 
-**Oct. 2024 - Current**
+**Feb. 2025 - Present**
 
 **Research Topic**: Impact of stimulant drug holidays on driving performance in adults with ADHD — applying statistical modeling and interpretable time-series machine learning to multimodal driving data.
 
@@ -39,7 +39,7 @@ contributors: false
 
 **Sep. 2022 - Oct. 2024**
 
-**Master Thesis (30 ECTS)** :  Explainable Machine Learning Algorithm for Drunk Driving Detection - [Detail](https://linan1109.github.io/projects/#interpretable-machine-learning-algorithm-for-drunk-driving-detection)
+**Master Thesis (30 ECTS)** :  Interpretable Machine Learning Algorithm for Drunk Driving Detection - [Detail](https://linan1109.github.io/projects/#interpretable-machine-learning-algorithm-for-drunk-driving-detection)
 
 **Lectures Taken**:
 
