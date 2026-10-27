@@ -21,6 +21,7 @@ export default defineUserConfig({
       {text:'HOME', link:'/'},
       {text:'Education', link:'/education/'},
       {text:'Projects', link:'/projects/'},
+      {text:'Posters', link:'/posters/'},
     ],
     
   }),
