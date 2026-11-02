@@ -51,6 +51,34 @@ contributors: false
   </figure>
 </section>
 
+## SGMS 2026
+
+<section class="poster-entry" id="sgms-2026-adhd-drugs" aria-labelledby="sgms-2026-adhd-drugs-title">
+  <h3 id="sgms-2026-adhd-drugs-title">Simultaneous quantification of ADHD drugs and endogenous DPPC in human breath reveals breath-blood correlations and suggests vapor-phase analyte collection</h3>
+  <p>Timon Käser<sup>+</sup>, <strong>Nan Li</strong><sup>+</sup>, Veronika Gambin, Lana Brockbals, Andrea Eva Steuer, Stamatios Giannoukos, Stefan Lakämper<sup>*</sup>, Renato Zenobi<sup>*</sup></p>
+  <p><small><sup>*, +</sup> These authors contributed equally to this work.</small></p>
+  <figure class="poster-preview">
+    <a href="/posters/SGMS2026.pdf">
+      <img src="/posters/2026-sgms-adhd-drugs.webp" alt="Poster: Simultaneous quantification of ADHD drugs and endogenous DPPC in human breath reveals breath-blood correlations and suggests vapor-phase analyte collection" width="1600" height="2262" loading="lazy" decoding="async">
+    </a>
+    <figcaption><a href="/posters/SGMS2026.pdf">View poster PDF</a></figcaption>
+  </figure>
+</section>
+
+## SCS 2025
+
+<section class="poster-entry" id="scs-2025-drugs-in-exhaled-breath" aria-labelledby="scs-2025-drugs-in-exhaled-breath-title">
+  <h3 id="scs-2025-drugs-in-exhaled-breath-title">Towards quantification of drugs in exhaled breath aerosol</h3>
+  <p>Timon Käser<sup>*</sup>, <strong>Nan Li</strong><sup>*</sup>, Lana Brockbals, Andrea Steuer, Stamatios Giannoukos, Stefan Lakämper, Renato Zenobi</p>
+  <p><small><sup>*</sup> These authors contributed equally to this work.</small></p>
+  <figure class="poster-preview">
+    <a href="/posters/SCS2025.pdf">
+      <img src="/posters/2025-scs-drugs-in-exhaled-breath.webp" alt="Poster: Towards quantification of drugs in exhaled breath aerosol" width="1600" height="2265" loading="lazy" decoding="async">
+    </a>
+    <figcaption><a href="/posters/SCS2025.pdf">View poster PDF</a></figcaption>
+  </figure>
+</section>
+
 <style lang="stylus">
 .theme-container.posters-page .poster-entry
   scroll-margin-top 5rem
